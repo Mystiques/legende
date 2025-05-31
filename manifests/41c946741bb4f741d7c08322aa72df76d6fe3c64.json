@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "sha1": "41c946741bb4f741d7c08322aa72df76d6fe3c64",
+  "hash_tree_depth": 2,
+  "module_name": "",
+  "description": "",
+  "includes_module_contents": false,
+  "includes_client_contents": true,
+  "total_files": 358,
+  "total_bytes": 1117948143,
+  "on_disk_bytes": 1102486030,
+  "created": 1748707598,
+  "created_with": "nwsync.nim nwsync 0.4.3 (/0e3d83, nim 1.6.0)"
+}
